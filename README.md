@@ -10,3 +10,7 @@
 5. Duration: In this you set the duration of the video.
 6. Image Source: You give the link of the image source.
 
+
+Here is the Screenshot of the Function Created
+
+![Alt text](https://github.com/SamamaKarim092/Youtube-Thumbnail-Creater/blob/main/Screenshot%20of%20The%20Youtube%20Thumbnail.png?raw=true)
