@@ -14,3 +14,5 @@
 ## Here is the Screenshot of the Function Created
 
 ![Alt text](https://github.com/SamamaKarim092/Youtube-Thumbnail-Creater/blob/main/Screenshot%20of%20The%20Youtube%20Thumbnail.png?raw=true)
+
+The Function generates only 1 Thumbnail but in the screenshot above I call the function 3 times so that's why there are 3 Thumbnail in the above screenshot.
