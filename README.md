@@ -1,7 +1,7 @@
 # Youtube-Thumbnail-Creater
  In this Project I created a Function in which you passed a parameter and it will generate a Thumbnail of that looks like a Youtube.
 
-There are 6 Parameters in the Function
+**There are 6 Parameters in the Function**
 
 1. Title: In which you give the title of the Youtube video.
 2. Channel Name: In which you give the channel name of the Youtube.
